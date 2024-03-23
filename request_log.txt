@@ -1,0 +1,2 @@
+2024-03-23T20:40:29.291Z | GET /joyas/filtros?precio_min=25000&precio_max=30000&categoria=aros&metal=plata | Headers: {"host":"localhost:3000","user-agent":"insomnia/8.6.1","accept":"*/*"} | Body: {}
+2024-03-23T20:41:39.211Z | GET /joyas/filtros?precio_min=25000&precio_max=30000&categoria=aros&metal=plata | Headers: {"host":"localhost:3000","user-agent":"insomnia/8.6.1","accept":"*/*"} | Body: {}
